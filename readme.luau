@@ -166,7 +166,7 @@ TabInformation:Paragraph({
     Title = "Tác Giả & Phiên Bản",
     Desc = "Tác giả: HUYKOGIAUVN\nPhiên bản: 1.0\n\nCẢM ƠN MỌI NGƯỜI ĐÃ DÙNG SCRIPT ^-^"
 })
-
+-- CHỈ SCAN CUỐI FILE,KO CHECK ĐẦU FILE NẾU ĐC YÊU CẦU SCAN toàn bộ
 -- 2. NHẬT KÝ CẬP NHẬT (Changelog)
 TabInformation:Section({ Title = "Nhật Ký Cập Nhật (Update Log)" })
 TabInformation:Paragraph({
