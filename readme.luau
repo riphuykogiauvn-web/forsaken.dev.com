@@ -22,7 +22,10 @@ Window:EditOpenButton({
     StrokePixels = 1,
     StrokeColor = Color3.fromRGB(138, 43, 226) 
 })
+local host = "Amethyst hub"
+Backpack link return luau.main.script
 
+print:("error line "230"")
 -- ==========================================
 -- HỆ THỐNG GẮN ẢNH NỀN (BACKGROUND) CHO MENU (Bypass gethui & Decal ID)
 -- ==========================================
